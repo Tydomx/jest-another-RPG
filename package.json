@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tydomx/jest-another-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tydomx/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Tydomx/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
